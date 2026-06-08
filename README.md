@@ -83,11 +83,11 @@ Detection & Analysis
 
 Successfully accessed Splunk Enterprise login portal.
 
-### 📷 Image-2
+### ![Image-2](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-2.png)
 
 Logged in as Administrator and verified dashboard accessibility.
 
-### 📷 Image-3
+### ![Image-3](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-3.png)
 
 Verified Splunk Search & Reporting interface.
 
@@ -102,7 +102,7 @@ Functions available:
 
 # 🔄 Splunk Receiving Configuration
 
-### 📷 Image-4
+### ![Image-4](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-4.png)
 
 Navigated to:
 
@@ -112,7 +112,7 @@ Settings → Forwarding and Receiving
 
 Configured Splunk as a receiving indexer.
 
-### 📷 Image-5
+### ![Image-5](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-5.png)
 
 Enabled Splunk receiving on:
 
@@ -120,7 +120,7 @@ Enabled Splunk receiving on:
 TCP Port 9997
 ```
 
-### 📷 Image-6
+### ![Image-6](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-6.png)
 
 Verified listener:
 
