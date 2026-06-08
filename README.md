@@ -79,7 +79,7 @@ Detection & Analysis
 
 ## Splunk Login Verification
 
-### 📷 Image-1
+### ![Image-1](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-1.png)
 
 Successfully accessed Splunk Enterprise login portal.
 
