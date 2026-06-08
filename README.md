@@ -160,7 +160,7 @@ Internet access was required to:
 
 ## Sysmon Package
 
-### 📷 Image-8
+![Image-8](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-8.png)
 
 Downloaded and extracted:
 
@@ -172,7 +172,7 @@ Sysmon64.exe
 
 ## Sysmon Configuration
 
-### 📷 Image-9
+![Image-9](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-9.png)
 
 Verified Sysmon XML configuration.
 
@@ -188,7 +188,7 @@ Configured monitoring for:
 
 ## Sysmon Installation
 
-### 📷 Image-10
+![Image-10](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-10.png)
 
 Installed Sysmon:
 
@@ -212,7 +212,7 @@ Running
 
 ## Event Viewer Verification
 
-### 📷 Image-11
+![Image-11](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-11.png)
 
 Verified logs in:
 
@@ -226,7 +226,7 @@ Applications and Services Logs
 
 ---
 
-### 📷 Image-12
+![Image-12](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-12.png)
 
 Verified Sysmon Event ID 1.
 
@@ -247,7 +247,7 @@ Captured:
 
 ## Connectivity Verification
 
-### 📷 Image-13
+![Image-13](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-13.png)
 
 Commands:
 
@@ -292,7 +292,7 @@ server = 192.168.68.102:9997
 
 # 📈 Log Ingestion Validation
 
-### 📷 Image-14
+![Image-14](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-14.png)
 
 Initial search returned:
 
@@ -304,7 +304,7 @@ This occurred before log forwarding was fully configured.
 
 ---
 
-### 📷 Image-15
+![Image-15](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-15.png)
 
 After troubleshooting, Sysmon events were successfully ingested.
 
@@ -319,7 +319,7 @@ Observed Event IDs:
 
 # ⚔️ Atomic Red Team Installation
 
-### 📷 Image-16
+![Image-16](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-16.png)
 
 Installed required modules:
 
@@ -338,7 +338,7 @@ Get-Command Invoke-AtomicTest
 
 # 🧪 Atomic Red Team Enumeration
 
-### 📷 Image-17
+![Image-17](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-17.png)
 
 Enumerated:
 
@@ -355,7 +355,7 @@ Reviewed:
 
 ---
 
-### 📷 Image-18
+![Image-18](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-18.png)
 
 Verified prerequisites:
 
@@ -367,7 +367,7 @@ Invoke-AtomicTest T1059.001 -TestNumbers 1 -CheckPrereqs
 
 # 📊 Event Analysis
 
-### 📷 Image-19
+![Image-19](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-19.png)
 
 Query:
 
@@ -387,7 +387,7 @@ Purpose:
 
 # 🎯 Atomic Test Execution
 
-### 📷 Image-20
+![Image-20](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-20.png)
 
 Attempted execution:
 
@@ -399,7 +399,7 @@ Execution generated telemetry but encountered dependency restrictions.
 
 ---
 
-### 📷 Image-21
+![Image-21](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-21.png)
 
 Executed:
 
@@ -418,7 +418,7 @@ Observed:
 
 ## Sysmon Source Verification
 
-### 📷 Image-22
+![Image-22](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-22.png)
 
 Verified source:
 
@@ -430,7 +430,7 @@ WinEventLog:Microsoft-Windows-Sysmon/Operational
 
 ## PowerShell Activity Detection
 
-### 📷 Image-23
+![Image-23](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-23.png)
 
 Query:
 
@@ -454,7 +454,7 @@ Detected:
 
 ## Log Source Validation
 
-### 📷 Image-24
+![Image-24](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-24.png)
 
 Query:
 
