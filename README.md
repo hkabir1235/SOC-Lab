@@ -140,7 +140,7 @@ This confirmed Splunk was actively accepting forwarded logs.
 
 # 🌐 Windows Server Preparation
 
-### 📷 Image-7
+![Image-7](https://raw.githubusercontent.com/hkabir1235/SOC-Lab/main/screenshots/image-7.png)
 
 Verified internet connectivity:
 
