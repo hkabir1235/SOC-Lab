@@ -1,9 +1,5 @@
 # 🛡️ SOC Lab Project: Splunk Enterprise, Sysmon, Universal Forwarder & Atomic Red Team
 
-## 👨‍💻 Author
-
-****
-
 ---
 
 ## 📌 Project Overview
@@ -549,14 +545,6 @@ This project successfully demonstrated the implementation of a SOC monitoring en
 * Simulated ATT&CK techniques
 * Detected PowerShell-based activity
 * Collected and indexed **6,222+ Sysmon events**
-
-The lab provides a practical foundation for:
-
-* Threat Detection
-* Threat Hunting
-* Incident Response
-* MITRE ATT&CK Analysis
-* SIEM Operations
 
 ---
 
